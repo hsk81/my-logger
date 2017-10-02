@@ -1,0 +1,11 @@
+{
+  "name": "my-logger",
+  "version": "1.0.0",
+  "description": "Logger library",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Hasan Karahan",
+  "license": "ISC"
+}
